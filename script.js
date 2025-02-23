@@ -145,4 +145,4 @@ window.onload = function() {
     loadCarsData();
     const sportsButton = document.querySelector("button[onclick=\"showCategory('sports', this)\"]");
     showCategory('sports', sportsButton);
-};
+}
